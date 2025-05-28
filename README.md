@@ -12,6 +12,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -31,6 +32,7 @@ created by Abdul Raheman Khan
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |

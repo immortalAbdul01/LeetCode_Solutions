@@ -12,6 +12,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
@@ -25,4 +26,12 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

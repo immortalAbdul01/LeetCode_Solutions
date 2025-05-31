@@ -48,6 +48,7 @@ created by Abdul Raheman Khan
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0496-next-greater-element-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0983-validate-stack-sequences) |
@@ -65,4 +66,5 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->

@@ -36,6 +36,7 @@ created by Abdul Raheman Khan
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0383-ransom-note) |
@@ -64,6 +65,7 @@ created by Abdul Raheman Khan
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |

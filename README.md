@@ -8,6 +8,7 @@ created by Abdul Raheman Khan
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -34,6 +35,7 @@ created by Abdul Raheman Khan
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -113,6 +115,7 @@ created by Abdul Raheman Khan
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String Matching

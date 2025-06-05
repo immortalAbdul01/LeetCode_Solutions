@@ -16,6 +16,7 @@ created by Abdul Raheman Khan
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
@@ -119,6 +120,7 @@ created by Abdul Raheman Khan
 | [0219-contains-duplicate-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |

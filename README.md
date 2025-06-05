@@ -82,6 +82,7 @@ created by Abdul Raheman Khan
 | [0643-maximum-average-subarray-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0983-validate-stack-sequences) |
+| [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Monotonic Stack
 |  |
@@ -101,6 +102,7 @@ created by Abdul Raheman Khan
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +121,7 @@ created by Abdul Raheman Khan
 | [0209-minimum-size-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -126,6 +129,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 ## Counting
 |  |

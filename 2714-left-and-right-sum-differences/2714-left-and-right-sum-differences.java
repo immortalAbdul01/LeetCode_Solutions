@@ -10,7 +10,7 @@ class Solution {
 
         for(int i=0;i<n;i++){
             if(i==0){
-                nums[i]=Math.abs(prefix[n-1]-prefix[i]);
+                nums[i]=prefix[n-1]-prefix[i];
                 continue;
             }else if(i==n-1){
                 nums[i] = prefix[n-2];

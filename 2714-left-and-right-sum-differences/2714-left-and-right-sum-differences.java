@@ -5,7 +5,7 @@ class Solution {
         prefix[0] = nums[0];
         for(int i=1;i<n;i++) {
             prefix[i]= nums[i]+prefix[i-1];
-            System.out.print(prefix[i]+" ");
+            
         }
 
         for(int i=0;i<n;i++){

@@ -2,20 +2,33 @@ import java.util.List;
 
 class Solution {
     public int minimumSumSubarray(List<Integer> nums, int l, int r) {
-        int n = nums.size();
+        
         int minSum = Integer.MAX_VALUE;
+        for (int i = l; i <= r; i++) {
+            int currSum = 0;
 
-        for (int i = 0; i < n; ++i) {
-            int currentSum = 0;
-            for (int j = i; j < n; ++j) {
-                currentSum += nums.get(j);
-                int length = j - i + 1;
-                if (length >= l && length <= r && currentSum > 0) {
-                    minSum = Math.min(minSum, currentSum);
+            for (int j = 0; j < i; j++) {
+                currSum += nums.get(j);
+            }
+            if (currSum > 0) {
+                minSum = Math.min(minSum, currSum);
+            }
+
+            int low = 0, high = i;
+
+            while (high < nums.size()) {
+                currSum -= nums.get(low);
+                currSum += nums.get(high);
+
+                low++;
+                high++;
+
+                if (currSum > 0) {
+                    minSum = Math.min(minSum, currSum);
                 }
             }
         }
-
-        return minSum == Integer.MAX_VALUE ? -1 : minSum;
+        if (minSum == Integer.MAX_VALUE) return -1;
+        return minSum;
     }
 }

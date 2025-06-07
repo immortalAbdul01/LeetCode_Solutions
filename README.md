@@ -88,6 +88,7 @@ created by Abdul Raheman Khan
 | [0560-subarray-sum-equals-k](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0983-validate-stack-sequences](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0983-validate-stack-sequences) |
 | [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -144,6 +145,7 @@ created by Abdul Raheman Khan
 | [0238-product-of-array-except-self](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2714-left-and-right-sum-differences) |

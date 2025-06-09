@@ -15,6 +15,7 @@ created by Abdul Raheman Khan
 | [0567-permutation-in-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1044-find-common-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
@@ -51,6 +52,7 @@ created by Abdul Raheman Khan
 | [0560-subarray-sum-equals-k](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0782-jewels-and-stones) |
+| [1044-find-common-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1044-find-common-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
@@ -92,6 +94,7 @@ created by Abdul Raheman Khan
 | [0682-baseball-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0983-validate-stack-sequences](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0983-validate-stack-sequences) |
+| [1044-find-common-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2102-find-the-middle-index-in-array) |

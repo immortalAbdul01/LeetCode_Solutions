@@ -57,6 +57,7 @@ created by Abdul Raheman Khan
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 ## Design
@@ -83,6 +84,7 @@ created by Abdul Raheman Khan
 | [0162-find-peak-element](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0283-move-zeroes) |
@@ -185,4 +187,16 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

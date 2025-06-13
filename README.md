@@ -37,6 +37,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ created by Abdul Raheman Khan
 | [2102-find-the-middle-index-in-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2714-left-and-right-sum-differences](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2714-left-and-right-sum-differences) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3644-minimum-positive-sum-subarray](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/3644-minimum-positive-sum-subarray) |
 ## Monotonic Stack
 |  |
@@ -128,6 +130,7 @@ created by Abdul Raheman Khan
 | [0162-find-peak-element](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Math
 |  |
 | ------- |

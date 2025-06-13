@@ -49,6 +49,7 @@ created by Abdul Raheman Khan
 | [0383-ransom-note](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -94,6 +95,7 @@ created by Abdul Raheman Khan
 | [0238-product-of-array-except-self](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |

@@ -22,6 +22,7 @@ created by Abdul Raheman Khan
 | [1764-maximum-repeating-substring](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1764-maximum-repeating-substring) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2235-capitalize-the-title](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2235-capitalize-the-title) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |

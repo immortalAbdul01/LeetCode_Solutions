@@ -18,6 +18,7 @@ created by Abdul Raheman Khan
 | [1044-find-common-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1764-maximum-repeating-substring](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1764-maximum-repeating-substring) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -191,6 +192,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1764-maximum-repeating-substring](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1764-maximum-repeating-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -216,4 +218,8 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->

@@ -13,6 +13,7 @@ created by Abdul Raheman Khan
 | [0383-ransom-note](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -126,6 +127,7 @@ created by Abdul Raheman Khan
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0983-validate-stack-sequences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -144,6 +146,7 @@ created by Abdul Raheman Khan
 | ------- |
 | [0189-rotate-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0415-add-strings](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |

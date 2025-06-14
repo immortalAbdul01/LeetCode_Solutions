@@ -40,6 +40,7 @@ created by Abdul Raheman Khan
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Hash Table
@@ -201,6 +202,7 @@ created by Abdul Raheman Khan
 | ------- |
 | [0231-power-of-two](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |
 ## Recursion
 |  |
 | ------- |
@@ -224,5 +226,10 @@ created by Abdul Raheman Khan
 ## Dynamic Programming
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |
 | [1764-maximum-repeating-substring](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1764-maximum-repeating-substring) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->

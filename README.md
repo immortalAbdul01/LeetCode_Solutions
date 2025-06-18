@@ -90,6 +90,7 @@ created by Abdul Raheman Khan
 | [0026-remove-duplicates-from-sorted-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0152-maximum-product-subarray](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0162-find-peak-element) |
@@ -229,6 +230,7 @@ created by Abdul Raheman Khan
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |
 | [1764-maximum-repeating-substring](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1764-maximum-repeating-substring) |
 ## Memoization

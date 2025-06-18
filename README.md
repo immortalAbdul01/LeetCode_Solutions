@@ -148,6 +148,7 @@ created by Abdul Raheman Khan
 | ------- |
 | [0189-rotate-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -206,12 +207,14 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |

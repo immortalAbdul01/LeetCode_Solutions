@@ -215,6 +215,7 @@ created by Abdul Raheman Khan
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0342-power-of-four) |
@@ -247,5 +248,6 @@ created by Abdul Raheman Khan
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0838-design-linked-list](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->

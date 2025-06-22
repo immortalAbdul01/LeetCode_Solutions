@@ -78,6 +78,7 @@ created by Abdul Raheman Khan
 | [0225-implement-stack-using-queues](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0838-design-linked-list](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0838-design-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -243,4 +244,8 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->

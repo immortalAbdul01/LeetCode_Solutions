@@ -71,6 +71,7 @@ created by Abdul Raheman Khan
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Design
 |  |
@@ -115,6 +116,7 @@ created by Abdul Raheman Khan
 | [0724-find-pivot-index](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0948-sort-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [0983-validate-stack-sequences](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0983-validate-stack-sequences) |
+| [1019-squares-of-a-sorted-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -168,6 +170,7 @@ created by Abdul Raheman Khan
 | [0189-rotate-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sliding Window
 |  |

@@ -119,6 +119,7 @@ created by Abdul Raheman Khan
 | [1019-squares-of-a-sorted-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1603-running-sum-of-1d-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -196,6 +197,7 @@ created by Abdul Raheman Khan
 | [0560-subarray-sum-equals-k](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1603-running-sum-of-1d-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2102-find-the-middle-index-in-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2714-left-and-right-sum-differences](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2714-left-and-right-sum-differences) |

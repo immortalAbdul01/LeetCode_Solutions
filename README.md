@@ -140,6 +140,7 @@ created by Abdul Raheman Khan
 | [0682-baseball-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0983-validate-stack-sequences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +163,7 @@ created by Abdul Raheman Khan
 | [0523-continuous-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |

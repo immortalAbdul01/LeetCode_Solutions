@@ -67,6 +67,7 @@ created by Abdul Raheman Khan
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0389-find-the-difference) |
@@ -91,6 +92,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -169,6 +171,7 @@ created by Abdul Raheman Khan
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |

@@ -104,6 +104,7 @@ created by Abdul Raheman Khan
 | [0215-kth-largest-element-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -149,6 +150,7 @@ created by Abdul Raheman Khan
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Math
@@ -235,6 +237,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -280,4 +283,8 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0948-sort-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->

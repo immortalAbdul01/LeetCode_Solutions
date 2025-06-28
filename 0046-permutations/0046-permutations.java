@@ -6,7 +6,7 @@ class Solution {
         return result;
     }
 
-    private void backtrack(int[] nums, List<Integer> current, boolean[] used, List<List<Integer>> result) {
+    static void backtrack(int[] nums, List<Integer> current, boolean[] used, List<List<Integer>> result) {
         if (current.size() == nums.length) {
             result.add(new ArrayList<>(current));
             return;

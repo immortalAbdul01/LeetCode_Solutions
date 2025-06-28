@@ -8,6 +8,7 @@ created by Abdul Raheman Khan
 | [0005-longest-palindromic-substring](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -31,6 +32,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
@@ -268,6 +270,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |
 | [1764-maximum-repeating-substring](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1764-maximum-repeating-substring) |

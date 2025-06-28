@@ -118,6 +118,7 @@ created by Abdul Raheman Khan
 | [0560-subarray-sum-equals-k](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0682-baseball-game) |
+| [0713-subarray-product-less-than-k](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0948-sort-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [0983-validate-stack-sequences](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0983-validate-stack-sequences) |
@@ -155,6 +156,7 @@ created by Abdul Raheman Khan
 | [0162-find-peak-element](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Math
@@ -191,6 +193,7 @@ created by Abdul Raheman Khan
 | [0219-contains-duplicate-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
@@ -205,6 +208,7 @@ created by Abdul Raheman Khan
 | [0303-range-sum-query-immutable](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1603-running-sum-of-1d-array) |

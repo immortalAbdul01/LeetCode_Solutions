@@ -130,6 +130,7 @@ created by Abdul Raheman Khan
 | [1019-squares-of-a-sorted-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1127-last-stone-weight](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1127-last-stone-weight) |
 | [1603-running-sum-of-1d-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -262,6 +263,7 @@ created by Abdul Raheman Khan
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |

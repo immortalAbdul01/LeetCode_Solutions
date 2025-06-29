@@ -101,6 +101,7 @@ created by Abdul Raheman Khan
 | [0016-3sum-closest](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -318,6 +319,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0046-permutations](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

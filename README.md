@@ -74,6 +74,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0389-find-the-difference) |
@@ -104,6 +105,7 @@ created by Abdul Raheman Khan
 | [0037-sudoku-solver](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -327,6 +329,7 @@ created by Abdul Raheman Khan
 | [0037-sudoku-solver](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0077-combinations) |

@@ -107,6 +107,7 @@ created by Abdul Raheman Khan
 | [0046-permutations](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -292,6 +293,7 @@ created by Abdul Raheman Khan
 | [0005-longest-palindromic-substring](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |
 | [1764-maximum-repeating-substring](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1764-maximum-repeating-substring) |
@@ -324,6 +326,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Backtracking
 |  |

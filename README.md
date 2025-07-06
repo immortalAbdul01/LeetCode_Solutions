@@ -48,6 +48,7 @@ created by Abdul Raheman Khan
 | ------- |
 | [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2591-frog-jump-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2591-frog-jump-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Hash Table
 |  |
@@ -147,6 +148,7 @@ created by Abdul Raheman Khan
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2102-find-the-middle-index-in-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2591-frog-jump-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2591-frog-jump-ii) |
 | [2714-left-and-right-sum-differences](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3644-minimum-positive-sum-subarray](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/3644-minimum-positive-sum-subarray) |
@@ -175,6 +177,7 @@ created by Abdul Raheman Khan
 | [0532-k-diff-pairs-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [2591-frog-jump-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2591-frog-jump-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Math
 |  |

@@ -46,6 +46,7 @@ created by Abdul Raheman Khan
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2591-frog-jump-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2591-frog-jump-ii) |
@@ -108,6 +109,7 @@ created by Abdul Raheman Khan
 | [0046-permutations](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -296,6 +298,7 @@ created by Abdul Raheman Khan
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0070-climbing-stairs) |

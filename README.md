@@ -128,6 +128,7 @@ created by Abdul Raheman Khan
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -314,6 +315,7 @@ created by Abdul Raheman Khan
 | [0063-unique-paths-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1764-maximum-repeating-substring](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1764-maximum-repeating-substring) |

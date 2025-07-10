@@ -17,6 +17,7 @@ created by Abdul Raheman Khan
 | [0383-ransom-note](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0782-jewels-and-stones) |
@@ -38,6 +39,7 @@ created by Abdul Raheman Khan
 | [0155-min-stack](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -51,6 +53,7 @@ created by Abdul Raheman Khan
 | [0134-gas-station](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -174,6 +177,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |

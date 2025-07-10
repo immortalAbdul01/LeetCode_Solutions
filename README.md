@@ -205,6 +205,7 @@ created by Abdul Raheman Khan
 | [0263-ugly-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0342-power-of-four) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0415-add-strings](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -321,6 +322,7 @@ created by Abdul Raheman Khan
 | [0152-maximum-product-subarray](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0494-target-sum) |
@@ -374,4 +376,8 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0062-unique-paths) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->

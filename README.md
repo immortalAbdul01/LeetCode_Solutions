@@ -142,6 +142,7 @@ created by Abdul Raheman Khan
 | [0442-find-all-duplicates-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -320,6 +321,7 @@ created by Abdul Raheman Khan
 | [0198-house-robber](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [1764-maximum-repeating-substring](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1764-maximum-repeating-substring) |
 ## Memoization
 |  |
@@ -365,6 +367,7 @@ created by Abdul Raheman Khan
 | [0077-combinations](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |

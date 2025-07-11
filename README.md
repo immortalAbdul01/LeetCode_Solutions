@@ -12,6 +12,7 @@ created by Abdul Raheman Khan
 | [0038-count-and-say](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0344-reverse-string) |
@@ -329,6 +330,7 @@ created by Abdul Raheman Khan
 | [0062-unique-paths](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0213-house-robber-ii) |

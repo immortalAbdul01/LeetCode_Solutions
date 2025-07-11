@@ -10,6 +10,7 @@ created by Abdul Raheman Khan
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
@@ -65,6 +66,7 @@ created by Abdul Raheman Khan
 | [0001-two-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0383-ransom-note) |
@@ -85,6 +87,7 @@ created by Abdul Raheman Khan
 | ------- |
 | [0016-3sum-closest](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0389-find-the-difference) |
@@ -119,6 +122,7 @@ created by Abdul Raheman Khan
 | [0045-jump-game-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0057-insert-interval) |

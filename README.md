@@ -134,6 +134,7 @@ created by Abdul Raheman Khan
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
@@ -334,6 +335,7 @@ created by Abdul Raheman Khan
 | [0063-unique-paths-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0213-house-robber-ii) |

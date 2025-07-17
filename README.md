@@ -71,6 +71,7 @@ created by Abdul Raheman Khan
 | [0049-group-anagrams](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0383-ransom-note](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0389-find-the-difference) |
@@ -218,6 +219,7 @@ created by Abdul Raheman Khan
 | [0189-rotate-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -314,6 +316,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [1127-last-stone-weight](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1127-last-stone-weight) |
 ## Quickselect
@@ -339,6 +342,7 @@ created by Abdul Raheman Khan
 | [0152-maximum-product-subarray](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0337-house-robber-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |

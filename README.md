@@ -152,6 +152,7 @@ created by Abdul Raheman Khan
 | [0240-search-a-2d-matrix-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0313-super-ugly-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0313-super-ugly-number) |
 | [0435-non-overlapping-intervals](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0455-assign-cookies) |
@@ -220,6 +221,7 @@ created by Abdul Raheman Khan
 | [0231-power-of-two](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -343,6 +345,7 @@ created by Abdul Raheman Khan
 | [0198-house-robber](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0313-super-ugly-number) |
 | [0337-house-robber-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |

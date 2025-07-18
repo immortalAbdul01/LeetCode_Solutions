@@ -221,6 +221,7 @@ created by Abdul Raheman Khan
 | [0231-power-of-two](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0342-power-of-four) |
@@ -345,6 +346,7 @@ created by Abdul Raheman Khan
 | [0198-house-robber](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0313-super-ugly-number) |
 | [0337-house-robber-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -417,4 +419,8 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->

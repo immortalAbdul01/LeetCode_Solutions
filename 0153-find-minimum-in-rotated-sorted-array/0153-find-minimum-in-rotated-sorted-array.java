@@ -7,6 +7,7 @@ class Solution {
             int j=i+1;
             if(nums[j]<nums[i]){
                 ans=nums[j];
+                break;
             }
        }
 

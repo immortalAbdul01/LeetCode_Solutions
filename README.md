@@ -23,6 +23,7 @@ created by Abdul Raheman Khan
 | [0389-find-the-difference](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
@@ -209,6 +210,7 @@ created by Abdul Raheman Khan
 | ------- |
 | [0054-spiral-matrix](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0983-validate-stack-sequences) |
@@ -246,6 +248,7 @@ created by Abdul Raheman Khan
 | [0342-power-of-four](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0342-power-of-four) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |

@@ -14,6 +14,7 @@ created by Abdul Raheman Khan
 | [0058-length-of-last-word](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0344-reverse-string) |
@@ -71,6 +72,7 @@ created by Abdul Raheman Khan
 | [0003-longest-substring-without-repeating-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
@@ -144,6 +146,7 @@ created by Abdul Raheman Khan
 | [0120-triangle](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -362,6 +365,7 @@ created by Abdul Raheman Khan
 | [0070-climbing-stairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
@@ -379,6 +383,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0397-integer-replacement) |
 ## Linked List
 |  |
@@ -451,4 +456,8 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0292-nim-game) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

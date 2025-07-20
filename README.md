@@ -12,6 +12,7 @@ created by Abdul Raheman Khan
 | [0038-count-and-say](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
@@ -196,6 +197,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0983-validate-stack-sequences) |
@@ -219,6 +221,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0231-power-of-two) |
@@ -297,6 +300,7 @@ created by Abdul Raheman Khan
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |

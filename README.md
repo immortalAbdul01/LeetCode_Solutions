@@ -22,6 +22,7 @@ created by Abdul Raheman Khan
 | [0389-find-the-difference](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0782-jewels-and-stones) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -243,6 +244,7 @@ created by Abdul Raheman Khan
 | [0415-add-strings](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0504-base-7](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |

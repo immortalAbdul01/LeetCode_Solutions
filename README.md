@@ -127,6 +127,7 @@ created by Abdul Raheman Khan
 | [0047-permutations-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
@@ -194,6 +195,7 @@ created by Abdul Raheman Khan
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0983-validate-stack-sequences) |
@@ -386,6 +388,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Backtracking

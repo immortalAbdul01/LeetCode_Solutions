@@ -235,6 +235,7 @@ created by Abdul Raheman Khan
 | [0263-ugly-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0342-power-of-four) |
@@ -425,6 +426,7 @@ created by Abdul Raheman Khan
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Tree
 |  |
@@ -443,4 +445,8 @@ created by Abdul Raheman Khan
 | ------- |
 | [0279-perfect-squares](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0322-coin-change) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

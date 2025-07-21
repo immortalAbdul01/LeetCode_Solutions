@@ -258,6 +258,7 @@ created by Abdul Raheman Khan
 | [0523-continuous-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2050-count-good-numbers](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Two Pointers
 |  |
@@ -339,6 +340,7 @@ created by Abdul Raheman Khan
 | [0231-power-of-two](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0342-power-of-four) |
+| [2050-count-good-numbers](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |

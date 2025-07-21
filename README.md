@@ -89,6 +89,7 @@ created by Abdul Raheman Khan
 | [0532-k-diff-pairs-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1044-find-common-characters) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -179,6 +180,7 @@ created by Abdul Raheman Khan
 | [0523-continuous-subarray-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0713-subarray-product-less-than-k) |

@@ -18,6 +18,7 @@ created by Abdul Raheman Khan
 | [0079-word-search](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0227-basic-calculator-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0383-ransom-note) |
@@ -47,6 +48,7 @@ created by Abdul Raheman Khan
 | [0084-largest-rectangle-in-histogram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -245,6 +247,7 @@ created by Abdul Raheman Khan
 | [0070-climbing-stairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |

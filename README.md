@@ -112,6 +112,7 @@ created by Abdul Raheman Khan
 | [0435-non-overlapping-intervals](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0948-sort-an-array) |
@@ -180,6 +181,7 @@ created by Abdul Raheman Khan
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -238,6 +240,7 @@ created by Abdul Raheman Khan
 | [0240-search-a-2d-matrix-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
+| [0475-heaters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
@@ -292,6 +295,7 @@ created by Abdul Raheman Khan
 | [0349-intersection-of-two-arrays](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0633-sum-of-square-numbers) |

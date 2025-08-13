@@ -48,6 +48,7 @@ created by Abdul Raheman Khan
 | [0020-valid-parentheses](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
@@ -154,6 +155,7 @@ created by Abdul Raheman Khan
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0134-gas-station) |
@@ -215,6 +217,7 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -400,6 +403,7 @@ created by Abdul Raheman Khan
 | [0063-unique-paths-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
@@ -449,6 +453,7 @@ created by Abdul Raheman Khan
 | [0054-spiral-matrix](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Backtracking
 |  |

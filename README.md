@@ -100,6 +100,7 @@ created by Abdul Raheman Khan
 | [1044-find-common-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1044-find-common-characters) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3827-implement-router](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -127,12 +128,14 @@ created by Abdul Raheman Khan
 | [0232-implement-queue-using-stacks](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0838-design-linked-list](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0838-design-linked-list) |
+| [3827-implement-router](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/3827-implement-router) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [3827-implement-router](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/3827-implement-router) |
 ## Array
 |  |
 | ------- |
@@ -213,6 +216,7 @@ created by Abdul Raheman Khan
 | [2714-left-and-right-sum-differences](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3644-minimum-positive-sum-subarray](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/3644-minimum-positive-sum-subarray) |
+| [3827-implement-router](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/3827-implement-router) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -251,6 +255,7 @@ created by Abdul Raheman Khan
 | [1046-max-consecutive-ones-iii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2591-frog-jump-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2591-frog-jump-ii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3827-implement-router](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -504,4 +509,8 @@ created by Abdul Raheman Khan
 |  |
 | ------- |
 | [0139-word-break](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0139-word-break) |
+## Ordered Set
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->

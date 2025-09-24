@@ -19,6 +19,7 @@ created by Abdul Raheman Khan
 | [0139-word-break](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0227-basic-calculator-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0344-reverse-string) |
@@ -82,6 +83,7 @@ created by Abdul Raheman Khan
 | [0037-sudoku-solver](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
@@ -262,6 +264,7 @@ created by Abdul Raheman Khan
 | [0062-unique-paths](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/immortalAbdul01/LeetCode_Solutions/tree/master/0227-basic-calculator-ii) |
